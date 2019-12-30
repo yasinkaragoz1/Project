@@ -17,6 +17,7 @@ namespace AdoGiris
             Application.EnableVisualStyles();
             Application.SetCompatibleTextRenderingDefault(false);
             Application.Run(new Form1());
+            // yorum satırı yeni eklendi
         }
     }
 }
