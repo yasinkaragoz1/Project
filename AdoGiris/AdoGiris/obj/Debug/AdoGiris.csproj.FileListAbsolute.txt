@@ -1,0 +1,10 @@
+C:\Users\302Ogle\source\repos\AdoGiris\AdoGiris\bin\Debug\AdoGiris.exe.config
+C:\Users\302Ogle\source\repos\AdoGiris\AdoGiris\bin\Debug\AdoGiris.exe
+C:\Users\302Ogle\source\repos\AdoGiris\AdoGiris\bin\Debug\AdoGiris.pdb
+C:\Users\302Ogle\source\repos\AdoGiris\AdoGiris\obj\Debug\AdoGiris.csprojAssemblyReference.cache
+C:\Users\302Ogle\source\repos\AdoGiris\AdoGiris\obj\Debug\AdoGiris.Form1.resources
+C:\Users\302Ogle\source\repos\AdoGiris\AdoGiris\obj\Debug\AdoGiris.Properties.Resources.resources
+C:\Users\302Ogle\source\repos\AdoGiris\AdoGiris\obj\Debug\AdoGiris.csproj.GenerateResource.cache
+C:\Users\302Ogle\source\repos\AdoGiris\AdoGiris\obj\Debug\AdoGiris.csproj.CoreCompileInputs.cache
+C:\Users\302Ogle\source\repos\AdoGiris\AdoGiris\obj\Debug\AdoGiris.exe
+C:\Users\302Ogle\source\repos\AdoGiris\AdoGiris\obj\Debug\AdoGiris.pdb
